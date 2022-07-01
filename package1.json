@@ -1,0 +1,24 @@
+{
+  "name": "javascript-npm",
+  "version": "1.0.0",
+  "description": "Contruir un paquete para node",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/saorionline/blue-control-package.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "package"
+  ],
+  "author": "Saori Online <saorionline021@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saorionline/blue-control-package/issues"
+  },
+  "homepage": "https://github.com/saorionline/blue-control-package#readme"
+}

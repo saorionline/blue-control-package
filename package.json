@@ -1,0 +1,22 @@
+{
+  "name": "javascript-npm",
+  "version": "1.0.0",
+  "description": "Bases for organizing a professional web design",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Saori_Online <saorionline021@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "date-fns": "^2.28.0",
+    "moment": "^2.29.3",
+    "webpack": "^5.73.0"
+  },
+  "optionalDependencies": {
+    "eslint": "^8.18.0"
+  },
+  "dependencies": {
+  }
+}
